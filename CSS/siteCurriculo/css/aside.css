@@ -1,0 +1,112 @@
+aside{
+    background-color: #fff;
+    flex: 30%;
+
+}
+aside > .fotopessoal{
+    align-items: end;
+    background-image: url(../imagempessoal/01627405217.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    height: 300px;
+}
+
+aside > .infopessoais{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    grid-template-rows: 40px 40px 40px 40px;
+    margin: 1em 0 1em 1em;
+}
+
+.skills > .tituloskills{
+    display: flex;
+
+}
+
+.skills > .tituloskills > h2{
+    padding-left: 5px;
+}
+
+.skills{
+    margin: 1em 1em 1em 1em;
+}
+
+.borda100{
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    border-radius: 10px;
+    width: 100%;
+}
+
+.preenchimento1{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 90%;
+}
+
+.preenchimento2{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 80%;
+}
+
+.preenchimento3{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 70%;
+}
+
+.preenchimento4{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 60%;
+}
+
+h2{
+    margin: 10px;
+}
+
+h4{
+    margin: 10px;
+}
+
+.borda102{
+    border: 1px solid #ccc;
+    background-color: #ccc;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.ling1{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.ling2{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 70%;
+}
+
+.ling3{
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+}

@@ -1,0 +1,63 @@
+main{
+    margin:auto ;
+    max-width: 1000px;
+}
+
+.princ{
+    margin: auto;
+    width: 900px;
+    height: 450px;
+    background-color: aqua;
+    display: flex;
+}
+
+.princ > .um{
+    background-color: red;
+    width: 450px;
+    height: 450px;
+}
+
+.princ > .cont{
+    background-color: black;
+    width: 450px;
+    height: 450px;
+}
+
+.princ > .cont > .dois{
+    background-color: green;
+    width: 450px;
+    height: 220px;
+}
+
+.cont2{
+    background-color: pink;
+    display: flex;
+    width: 450px;
+    height: 230px;
+}
+
+.tres{
+    background-color: rgb(44, 31, 228);
+    width: 450px;
+    height: 230px;
+    
+}
+
+.quatro{
+    background-color: rgb(133, 124, 151);
+    width: 220px;
+    height: 230px;
+}
+
+.Isa, .Thai{
+    width: 220px;
+    height: 115px;
+}
+
+.Isa{
+    background-color: rgb(31, 228, 41);
+}
+
+.Thai{
+    background-color: brown;
+}

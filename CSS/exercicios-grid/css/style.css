@@ -1,0 +1,27 @@
+.grid{
+    display: grid;
+    max-width: 200px;
+    text-align: center;
+}
+
+.coluna1{
+    grid-template-columns: 200px 200px 200px;
+}
+
+.coluna2{
+    grid-template-columns: 200px 200px 200px;
+}
+
+.coluna3{
+    grid-template-columns: 200px 200px 200px;
+}
+
+.coluna4{
+    grid-template-columns: 1fr 2fr;
+    margin: 5px;
+}
+
+.item{
+    background-color: pink;
+    margin: 5px;
+}

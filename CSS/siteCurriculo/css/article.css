@@ -1,0 +1,54 @@
+article{
+    flex: 70%;
+}
+
+.princtext{
+    background-color: white;
+    margin: 0 10px ;
+}
+
+.princtext > .exper{
+    display: flex;
+}
+
+h3{
+    margin: 10px;
+}
+
+.exper{
+    margin: 10px;
+}
+
+.icons{
+    display: flex;
+    margin: 0 10px;
+}
+
+.back{
+    background-color: rgb(2, 88, 81);
+    border-radius: 5px;
+    color: white;
+    padding: 2px;
+
+}
+
+p{
+    margin: 0 10px;
+}
+
+.princtext2{
+    background-color: white;
+    margin: 10px;
+    height: 500px;
+}
+
+.iconsfooter > .footer{
+    background-color:rgb(2, 88, 81) ;
+    
+}
+
+footer{
+    background-color:rgb(2, 88, 81) ;
+    text-align: center;
+}
+
